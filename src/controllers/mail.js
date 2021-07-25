@@ -7,7 +7,7 @@ module.exports = {
 			port: 465,
 			secure: true, // use SSL
 			auth: {
-				user: "sendmailjh512@gmail.com",
+				user: "sendmailjh512@gmail.com", //password: alucard91
 				pass: "hvxnkicltzjlulky",
 			},
 		});
